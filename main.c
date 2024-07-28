@@ -1,3 +1,4 @@
+#include "color_pair.h"  
 #include "color_tests.h"
 #include "color_reference_manual.h"
 
